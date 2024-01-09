@@ -1,9 +1,9 @@
 ### Hi there 👋
-I am a Fullstack developer, Here are my skill set :
+I am a Fullstack developer, My tech set :
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,adonis,anaconda,androidstudio,arduino,aws,azure,bootstrap,cs,cpp,cmake,css,dart,discord,bots,django,docker,eclipse,express,figma,firebase,flutter,git,github,gitlab,go,html,java,js,jquery,laravel,matlab,mongodb,mysql,nestjs,nextjs,nginx,nodejs,php,postman,postgres,py,r,react,redux,spring,ts,unity,vercel,vue,vscode," />
   </a>
 </p>
 <!--
