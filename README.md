@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Fullstack developer, My tech set :
+I am Aaron Cheung and I am a Fullstack developer, My tech set :
 
 <p align="center">
   <a href="https://skillicons.dev">
