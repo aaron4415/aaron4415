@@ -1,6 +1,11 @@
 ### Hi there 👋
 I am a Fullstack developer, Here are my skill set :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <!--
 **aaron4415/aaron4415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
