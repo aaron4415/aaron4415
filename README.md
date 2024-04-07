@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am Aaron Cheung and I am a Fullstack developer. My tech set :
+I am Aaron Cheung and I am a Fullstack developer. Come check out my portfolio website : https://portfolio-website-mauve-two.vercel.app/
+My tech set :
 
 <p align="center">
   <a href="https://skillicons.dev">
